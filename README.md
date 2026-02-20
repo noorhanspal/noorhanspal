@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Noordeep Kaur</h1>
+<h1 align="center">Hi 👋 I'm Noor </h1>
 <p align="center">
 B.Tech CSE Student 
 </p>
@@ -13,7 +13,9 @@ B.Tech CSE Student
 ---
 
 ### Tech Stack
-Next.js • Python • C • C++ • PostgreSQL • HTML • CSS • JavaScript  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,python,c,cpp,postgres,html,css,javascript" />
+</p>
 
 ---
 
