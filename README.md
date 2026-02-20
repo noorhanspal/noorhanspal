@@ -1,21 +1,11 @@
-<h1 align="center">Hi 👋 I'm Noor </h1>
-<p align="center">B.Tech CSE Student </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=4A90E2&center=true&vCenter=true&width=500&lines=Hi+I'm+Noordeep+Kaur;B.Tech+CSE+Student;Aspiring+Full+Stack+Developer" />
+</p>
 
-<br/>
-
-### About Me
-💻 Passionate about Web Development  
-🌱 Currently learning and building projects  
-🎯 Goal: Become a skilled Full Stack Developer  
-
-<br/>
-
-### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,python,c,cpp,postgres,html,css,javascript" />
 </p>
 
-<br/>
-
-### Motto
-> Code. Learn. Improve. Repeat.
+<p align="center">
+Code. Learn. Build. Repeat.
+</p>
