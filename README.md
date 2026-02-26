@@ -17,12 +17,6 @@
 
 <br>
 
-<!-- Stylish Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3&section=header"/>
-</p>
-
-<br>
 
 <!-- Animated Tagline -->
 <p align="center">
