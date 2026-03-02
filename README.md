@@ -1,30 +1,30 @@
-<!-- Gradient Animated Header -->
+<!-- Soft Girlish Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi,+I'm+Noor;B.Tech+CSE+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=EC4899&center=true&vCenter=true&width=600&lines=Hi,+I'm+Noor;B.Tech+CSE+Student&font=Fira+Code" />
 </p>
 
-<!-- Top Wave Animation -->
+<!-- Top Pastel Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,100:C4B5FD&height=110&section=header"/>
 </p>
 
 <br>
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,python,c,cpp,postgres,html,css,javascript&theme=dark" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,python,c,cpp,postgres,html,css,javascript&theme=light" height="42"/>
 </p>
 
 <br>
 
-<!-- Animated Tagline -->
+<!-- Soft Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=7DD3FC&center=true&vCenter=true&width=360&lines=Code.+Learn.+Build.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=A78BFA&center=true&vCenter=true&width=400&lines=Code.+Learn.+Build.+Repeat.&font=Fira+Code" />
 </p>
 
 <br>
 
-<!-- Bottom Wave Animation -->
+<!-- Bottom Pastel Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,100:FCE7F3&height=110&section=footer"/>
 </p>
