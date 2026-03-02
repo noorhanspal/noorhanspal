@@ -1,26 +1,30 @@
-<!-- Glass Container Start -->
-<div align="center">
+<!-- Gradient Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi,+I'm+Noor;B.Tech+CSE+Student" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F172A,100:0EA5E9&height=260&section=header&text=&fontSize=0&animation=fadeIn"/>
+<!-- Top Wave Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=100&section=header"/>
+</p>
 
 <br>
 
-<!-- Compact Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=E0F2FE&center=true&vCenter=true&width=500&lines=Hi,+I'm+Noor;B.Tech+CSE+Student&font=Fira+Code&pause=800" />
-
-<br><br>
-
 <!-- Tech Stack -->
-<img src="https://skillicons.dev/icons?i=nextjs,python,c,cpp,postgres,html,css,javascript&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,python,c,cpp,postgres,html,css,javascript&theme=dark" height="40"/>
+</p>
 
-<br><br>
+<br>
 
-<!-- Tagline -->
-<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=BAE6FD&center=true&vCenter=true&width=380&lines=Code.+Learn.+Build.+Repeat.&font=Fira+Code" />
+<!-- Animated Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=7DD3FC&center=true&vCenter=true&width=360&lines=Code.+Learn.+Build.+Repeat." />
+</p>
 
-<br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0EA5E9,100:0F172A&height=60&section=footer"/>
-
-</div>
-<!-- Glass Container End -->
+<!-- Bottom Wave Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=100&section=footer"/>
+</p>
