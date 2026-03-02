@@ -1,30 +1,40 @@
-<!-- Soft Girlish Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=EC4899&center=true&vCenter=true&width=600&lines=Hi,+I'm+Noor;B.Tech+CSE+Student&font=Fira+Code" />
+<!-- Subtle Flower Accent Top -->
+<p align="center" style="font-size:18px;">
+  ✿
 </p>
 
-<!-- Top Pastel Wave -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,100:C4B5FD&height=110&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=DB2777&center=true&vCenter=true&width=520&lines=Hi,+I'm+Noor;B.Tech+CSE+Student&font=Fira+Code" />
+</p>
+
+<!-- Soft Feminine Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDF2F8,100:E9D5FF&height=95&section=header"/>
 </p>
 
 <br>
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,python,c,cpp,postgres,html,css,javascript&theme=light" height="42"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,python,c,cpp,postgres,html,css,javascript&theme=light" height="40"/>
 </p>
 
 <br>
 
-<!-- Soft Tagline -->
+<!-- Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=A78BFA&center=true&vCenter=true&width=400&lines=Code.+Learn.+Build.+Repeat.&font=Fira+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=A855F7&center=true&vCenter=true&width=360&lines=Code.+Learn.+Build.+Repeat.&font=Fira+Code" />
 </p>
 
 <br>
 
-<!-- Bottom Pastel Wave -->
+<!-- Subtle Flower Accent Bottom -->
+<p align="center" style="font-size:18px;">
+  ✿
+</p>
+
+<!-- Bottom Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,100:FCE7F3&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,100:FDF2F8&height=95&section=footer"/>
 </p>
