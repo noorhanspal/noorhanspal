@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=noorhanspal&theme=default&hide_border=true&background=FFFFFF00&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=64748B&dates=64748B" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noorhanspal&theme=github-compact&hide_border=true"/>
 </p>
 
 <p align="center">
