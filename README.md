@@ -17,9 +17,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noorhanspal&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noorhanspal&theme=github-compact&hide_border=true" height="150"/>
 </p>
-
 <p align="center">
 └──────────────────────────────────────────────┘
 </p>
