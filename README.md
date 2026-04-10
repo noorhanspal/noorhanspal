@@ -5,7 +5,7 @@
 <h3 align="center">Hi, I'm Noor !</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2800&color=0EA5E9&center=true&vCenter=true&width=380&lines=Code.+Build.+Grow.;Consistency+over+perfection." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2800&center=true&vCenter=true&width=380&lines=Code.+Build.+Grow.;Consistency+over+perfection." />
 </p>
 
 <br>
