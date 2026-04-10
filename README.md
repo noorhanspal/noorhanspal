@@ -1,5 +1,5 @@
 <p align="center">
-┌──────────────────────────────────────────────┐
+┌── ─────── ───────── ─────── ───────── ───────── ───┐
 </p>
 
 <h3 align="center">Hi, I'm Noor !</h3>
@@ -20,5 +20,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=noorhanspal&theme=github-compact&hide_border=true" height="150"/>
 </p>
 <p align="center">
-└──────────────────────────────────────────────┘
+└── ─────── ───────── ─────── ───────── ───────── ───┘
 </p>
