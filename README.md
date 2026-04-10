@@ -1,57 +1,26 @@
-<!-- TOP GRADIENT WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Welcome!&fontSize=30&fontColor=ffffff"/>
-</p>
+<!-- CUTE FRAME -->
+<div align="center" style="border-radius:16px; padding:20px; width:fit-content; border:1px solid #e5e7eb; background:linear-gradient(145deg, rgba(255,255,255,0.6), rgba(240,249,255,0.6)); box-shadow:0 4px 20px rgba(0,0,0,0.05);">
 
-<!-- NAME -->
-<h1 align="center">Hey, I'm Noor 👩‍💻</h1>
+  <!-- NAME -->
+  <h3>Hi, I'm Noor ✨</h3>
 
-<!-- SUBTITLE -->
-<p align="center">
-  <b>💻 B.Tech CSE Student | 🚀 Future Full Stack Developer</b>
-</p>
+  <!-- TYPING -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2800&color=0EA5E9&center=true&vCenter=true&width=380&lines=Code.+Build.+Grow.;Consistency+over+perfection." />
+  </p>
 
-<!-- TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=2C5364&center=true&vCenter=true&width=450&lines=Building+Projects+Daily;Learning+Full+Stack;Dreaming+Big+✨" />
-</p>
+  <br>
 
-<br>
+  <!-- TECH STACK -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=nextjs,python,cpp,postgres,html,css,javascript&theme=light" height="42"/>
+  </p>
 
-<!-- ABOUT ME -->
-### 👩‍💻 About Me
-- 🌱 Currently learning **Full Stack Development**
-- 💡 Interested in **AI + Web Development**
-- 🎯 Goal: Crack a **Developer Job in 6 months**
-- ⚡ Fun fact: I believe in *Consistency > Motivation*
+  <br>
 
-<br>
+  <!-- STREAK -->
+  <p>
+    <img src="https://streak-stats.demolab.com?user=noorhanspal&theme=default&hide_border=true&background=FFFFFF00&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=64748B&dates=64748B" height="160"/>
+  </p>
 
-<!-- TECH STACK -->
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,python,cpp,postgres,html,css,javascript&theme=light" />
-</p>
-
-<br>
-
-<!-- GITHUB STATS -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noorhanspal&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br>
-
-<!-- STREAK -->
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=noorhanspal&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-</p>
+</div>
